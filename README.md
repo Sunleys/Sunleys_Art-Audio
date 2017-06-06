@@ -6,7 +6,7 @@ Hi! I’m Maria Teresa Miranda, the art and audio leader of the DuckDev team. My
 
 - Making decisions about the art of maps
 - Making decisions about the art of the characters
-- Create sprite sheets and xml documents of some characters: Middle Link and enemies
+- Create sprite sheet and xml document of the enemies
 - Create maps from Tiled
 
 ### Maps
@@ -28,4 +28,8 @@ Hi! I’m Maria Teresa Miranda, the art and audio leader of the DuckDev team. My
 - Selection of effects and themes to be used in the game
 - Recording new audios for some effects
 - Editing audio to suit the game
+
+In the following link you can see all the sound effects and themes that have been used into the project:![FXs and Themes](https://drive.google.com/drive/folders/0BxckAI21m37kTFJUQ3Nmc1Z0SW8?usp=sharing)    
+
+
 
