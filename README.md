@@ -1,15 +1,16 @@
-# Art & Audio
 
 ![](http://subirimagen.me/uploads/20170606143530.png)
 
-Hi! I’m Maria Teresa Miranda, the art and audio leader of the DuckDev team. My contribution in this project has been the following one:
+Hi! I’m Teresa Miranda, the art and audio director of DuckDev. My contribution in our last project, A Link Between Ages, have been the following one:
+
+# Art & Audio
 
 ## Art
 
 - Making decisions about the art of maps
 - Making decisions about the art of the characters
-- Create sprite sheet and xml document of the enemies
-- Create maps from Tiled
+- Creating sprite sheet and xml document of the enemies
+- Creating maps from Tiled
 
 ### Maps
 #### Kakariko Village
