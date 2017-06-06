@@ -9,7 +9,7 @@ Hi! I’m Maria Teresa Miranda, the art and audio leader of the DuckDev team. My
 - Create maps from Tiled
 - Create sprite sheets and xml documents of some characters
 
-
+![](https://i.gyazo.com/3a6d67aebe29c21d20d1754ffe8d5561.gif)    
 
 
 ## Audio 
