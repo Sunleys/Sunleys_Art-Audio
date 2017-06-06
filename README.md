@@ -29,4 +29,4 @@ Hi! I’m Maria Teresa Miranda, the art and audio leader of the DuckDev team. My
 - Recording new audios for some effects
 - Editing audio to suit the game
 
-In the following link you can see all the sound effects and themes that have been used into the project:[FXs and Themes](https://drive.google.com/drive/folders/0BxckAI21m37kTFJUQ3Nmc1Z0SW8?usp=sharing)    
+In the following link you can see all the sound effects and themes that have been used into the project: [FXs and Themes](https://drive.google.com/drive/folders/0BxckAI21m37kTFJUQ3Nmc1Z0SW8?usp=sharing)    
