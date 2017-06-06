@@ -12,16 +12,19 @@ Hi! I’m Maria Teresa Miranda, the art and audio leader of the DuckDev team. My
 ### Maps
 #### Kakariko Village
 
-![](https://i.gyazo.com/3a6d67aebe29c21d20d1754ffe8d5561.gif)    
+![](https://i.gyazo.com/3a6d67aebe29c21d20d1754ffe8d5561.gif)  
+![](http://subirimagen.me/uploads/20170606134257.png) 
 
 #### Forest
 
-![](https://i.gyazo.com/be5f0c6d5b3e496ac496bc38894c081d.gif)    
+![](https://i.gyazo.com/be5f0c6d5b3e496ac496bc38894c081d.gif)   
+![](http://subirimagen.me/uploads/20170606134157.png) 
+
 
 #### Kakariko Destroyed
 
 ![](https://i.gyazo.com/d1f04dff5162d9e8d37600d4a7189230.gif)    
-
+![](http://subirimagen.me/uploads/20170606134920.png) 
 
 ## Audio 
 
