@@ -23,12 +23,9 @@ Hi! I’m Maria Teresa Miranda, the art and audio leader of the DuckDev team. My
 ![](https://i.gyazo.com/d1f04dff5162d9e8d37600d4a7189230.gif)    
 
 
-
-
 ## Audio 
 
 - Selection of effects and themes to be used in the game
 - Recording new audios for some effects
 - Editing audio to suit the game
-
 
