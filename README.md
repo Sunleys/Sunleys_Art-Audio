@@ -14,7 +14,7 @@ Hi! I’m Maria Teresa Miranda, the art and audio leader of the DuckDev team. My
 
 ![](https://i.gyazo.com/3a6d67aebe29c21d20d1754ffe8d5561.gif)  
 
-![](http://subirimagen.me/uploads/20170606134257.png) 
+![](http://subirimagen.me/uploads/20170606140224.png) 
 
 #### Forest
 
