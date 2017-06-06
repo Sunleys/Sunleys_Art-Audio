@@ -1,5 +1,7 @@
 # Art & Audio
 
+![](http://subirimagen.me/uploads/20170606143530.png)
+
 Hi! I’m Maria Teresa Miranda, the art and audio leader of the DuckDev team. My contribution in this project has been the following one:
 
 ## Art
